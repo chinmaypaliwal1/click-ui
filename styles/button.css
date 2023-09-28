@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap");
+
+.button {
+  font-size: 3rem;
+  margin-left: 2rem;
+  margin-top: 0;
+}
+
+.basic-btn {
+  font-size: 2rem;
+  margin-left: 2rem;
+  margin-top: 3rem;
+}
+
+.btn-box {
+  border: none;
+  width: 80vw;
+  height: 15vh;
+  margin-left: 10rem;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+.btn {
+  padding: 0.6rem 1rem;
+  margin: 2rem;
+  background: gray;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: white;
+  border-radius: 4px;
+  text-align: center;
+  cursor: pointer;
+}
+.btn1:hover {
+  background: rgb(111, 34, 184);
+}
+.btn2:hover {
+  background: rgb(80, 79, 79);
+}
+.btn3:hover {
+  background: rgb(238, 17, 17);
+}
+.btn4:hover {
+  background: rgb(129, 127, 11);
+}
+.btn1 {
+  background-color: blueviolet;
+}
+.btn3 {
+  background: rgb(238, 25, 25);
+}
+.btn4 {
+  background: orange;
+  color: black;
+}
+.btn5 {
+  background: blue;
+}
+.btn6 {
+  background: green;
+}

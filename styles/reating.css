@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap");
+
+
+.span-element-sm {
+  margin: 0.4rem;
+}
+.rating-box {
+  display: flex;
+  align-items: center;
+  padding: 0.4rem;
+  font-size: 0.8rem;
+  background: #1c1b1b;
+  color: white;
+  cursor: default;
+}
+.star-img {
+  margin-top: 0.2rem;
+}
+
+.rating-box-sm {
+  padding: 0.4rem;
+  height: 1rem;
+}

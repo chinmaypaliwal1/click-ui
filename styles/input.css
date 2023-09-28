@@ -1,0 +1,16 @@
+
+strong {
+  color: blue;
+}
+
+.flex-row {
+  flex-direction: row;
+}
+.input-box {
+  font-size: 20px;
+  padding: 1rem;
+}
+input {
+  width: 50vw;
+  height: 4vh;
+}
