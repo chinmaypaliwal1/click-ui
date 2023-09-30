@@ -13,11 +13,14 @@ strong {
   margin-left: 40%;
   line-height: 1;
 }
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background: #fff;
+.navbar-potion{
+  position:fixed;
+  background-color: white;
+  top: 0;
+  width: 98vw;
+  z-index: 111;
+ 
+
 }
 .right-side {
   display: flex;
@@ -54,6 +57,7 @@ strong {
   margin-right: 0.7rem;
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 .search-navbar {
@@ -85,6 +89,10 @@ strong {
 .left-nav {
   display: flex;
   align-items: center;
+  margin: rem;
+
+
+ 
 }
 .right-navbar {
   position: relative;
@@ -102,6 +110,9 @@ strong {
   margin: 0.2rem;
   transition: 0.4s;
 }
+
+  
+
 .ui-nav {
   display: flex;
   margin: 1rem 5rem;
@@ -109,12 +120,14 @@ strong {
   align-items: center;
   box-sizing: border-box;
 }
+
 .main-headline {
   font-size: 2rem;
-  font-weight: 400;
+  font-weight: 500;
   cursor: default;
 }
 .nav-item {
   margin: 1rem;
+  font-size: 1.5rem;
   cursor: pointer;
 }
